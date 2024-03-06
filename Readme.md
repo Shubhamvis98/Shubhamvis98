@@ -4,10 +4,7 @@ Welcome to my GitHub profile.
 
 ## Links:
 
-- 🌐 [Website](https://www.fossfrog.in)
-- 📺 [Youtube](https://youtube.com/fossfrog)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhamvis98)
-- 🐦 [Twitter](https://twitter.com/shubhamvis98)
+🌐 [Website](https://www.fossfrog.in) 📺 [Youtube](https://youtube.com/fossfrog) 💼 [LinkedIn](https://www.linkedin.com/in/shubhamvis98) 🐦 [Twitter](https://twitter.com/shubhamvis98)
 
 ## My Projects:
 
